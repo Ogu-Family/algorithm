@@ -18,8 +18,8 @@
 | 2  |  [햄버거 분배](https://www.acmicpc.net/problem/19941)  | [강의실 배정](https://www.acmicpc.net/problem/11000)  |      [전쟁 - 전투](https://www.acmicpc.net/problem/1303)      |
 | 3  |  [색종이 만들기](https://www.acmicpc.net/problem/2630)  |    [파티](https://www.acmicpc.net/problem/1238)    | [2,147,483,648 게임](https://www.acmicpc.net/problem/23796) |
 | 4  | [구간 나누기 2](https://www.acmicpc.net/problem/13397) | [에너지 드링크](https://www.acmicpc.net/problem/20115) |      [소수&팰린드롬](https://www.acmicpc.net/problem/1747)      |
-| 5  |  [랜선 자르기](https://www.acmicpc.net/problem/1654)   |   [토마토](https://www.acmicpc.net/problem/7576)    |                       [인하니카 공화국](https://www.acmicpc.net/problem/12784)                        |
-| 6  | [정수 삼각형](https://www.acmicpc.net/problem/1932) |
+| 5  |  [랜선 자르기](https://www.acmicpc.net/problem/1654)   |   [토마토](https://www.acmicpc.net/problem/7576)    |     [인하니카 공화국](https://www.acmicpc.net/problem/12784)     |
+| 6  |  [정수 삼각형](https://www.acmicpc.net/problem/1932)   |                                                  |      [미로 만들기](https://www.acmicpc.net/problem/2665)       |
 
 ** 문제 출제자는 마크다운 문법(`[문제 이름](링크)`)을 사용하여 `docs: n주차 n번 문제 출제` 커밋으로 문제를 제출합니다.
 
