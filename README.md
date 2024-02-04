@@ -23,7 +23,7 @@
 | 7  |     [리모컨](https://www.acmicpc.net/problem/1107)     |   [회의실 배정](https://www.acmicpc.net/problem/1931)   |                             [해시 해킹](https://www.acmicpc.net/problem/26008)                             |
 | 8  | [Codepowers](https://www.acmicpc.net/problem/26007) |   [서강근육맨](https://www.acmicpc.net/problem/20300)   |                            [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)                             |
 | 9  |    [퇴사 2](https://www.acmicpc.net/problem/15486)    | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [초밥 식사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCcO16Vi8DFAWv) |
-| 10  |        | [상어 초등학교](https://www.acmicpc.net/problem/21608) |  |
+| 10  | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)       | [상어 초등학교](https://www.acmicpc.net/problem/21608) |  |
 
 
 ** 문제 출제자는 마크다운 문법(`[문제 이름](링크)`)을 사용하여 `docs: n주차 n번 문제 출제` 커밋으로 문제를 제출합니다.
