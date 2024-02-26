@@ -25,8 +25,8 @@
 | 9  |    [퇴사 2](https://www.acmicpc.net/problem/15486)    | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [초밥 식사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCcO16Vi8DFAWv) |
 | 10 |  [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)  |  [상어 초등학교](https://www.acmicpc.net/problem/21608)  |                             [등수 구하기](https://www.acmicpc.net/problem/1205)                             |
 | 11 |  [이진 검색 트리](https://www.acmicpc.net/problem/5639)   |                         -                          |                             [어항 정리](https://www.acmicpc.net/problem/23291)                             |
-| 12 | [통나무 건너뛰기](https://www.acmicpc.net/problem/11497) |  [꿀따기](https://www.acmicpc.net/problem/21758)   |                               [친구](https://www.acmicpc.net/problem/1058)                               |
-
+| 12 |  [통나무 건너뛰기](https://www.acmicpc.net/problem/11497)  |    [꿀따기](https://www.acmicpc.net/problem/21758)    |                               [친구](https://www.acmicpc.net/problem/1058)                               |
+| 13 |                   [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)                   |                                                    |                                                                                                        |
 ** 문제 출제자는 마크다운 문법(`[문제 이름](링크)`)을 사용하여 `docs: n주차 n번 문제 출제` 커밋으로 문제를 제출합니다.
 
 <br>
