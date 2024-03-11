@@ -28,7 +28,7 @@
 | 12 |  [통나무 건너뛰기](https://www.acmicpc.net/problem/11497)   |    [꿀따기](https://www.acmicpc.net/problem/21758)    |                               [친구](https://www.acmicpc.net/problem/1058)                               |
 | 13 | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) |                         -                          |                      [어떤 우유의 배달 목록(Easy)](https://www.acmicpc.net/problem/23835)                       |
 | 14 |     [쿼드트리](https://www.acmicpc.net/problem/1992)     |   [줄 세우기](https://www.acmicpc.net/problem/2252)    |                              [꽃길](https://www.acmicpc.net/problem/14620)                               |
-| 15 |          |       |                                        [문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)                                         |
+| 15 |                   [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)                    |       |                                        [문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)                                         |
 
 ** 문제 출제자는 마크다운 문법(`[문제 이름](링크)`)을 사용하여 `docs: n주차 n번 문제 출제` 커밋으로 문제를 제출합니다.
 
