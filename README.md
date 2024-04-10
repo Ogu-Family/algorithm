@@ -31,8 +31,8 @@
 | 15 | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |                   [수열](https://www.acmicpc.net/problem/2559)                   |                      [문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)                      |
 | 16 |                  [연구소](https://www.acmicpc.net/problem/14502)                   | [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) |                            [조합 0의 개수](https://www.acmicpc.net/problem/2004)                            |
 | 17 |                 [문자열 게임](https://www.acmicpc.net/problem/27980)                 |                 [똥 게임](https://www.acmicpc.net/problem/23815)                  |              [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)               |
-| 18 |                  [단어 수학](https://www.acmicpc.net/problem/1339)                  |         [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)     |                           [배열 돌리기 1](https://www.acmicpc.net/problem/16926)                            |
-| 19 |                                     [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)                                      |              |                              [샘터](https://www.acmicpc.net/problem/18513)                               |
+| 18 |                  [단어 수학](https://www.acmicpc.net/problem/1339)                  |    [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)     |                           [배열 돌리기 1](https://www.acmicpc.net/problem/16926)                            |
+| 19 |      [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)      |              [Java vs C++](https://www.acmicpc.net/problem/3613)               |                              [샘터](https://www.acmicpc.net/problem/18513)                               |
 
 ** 문제 출제자는 마크다운 문법(`[문제 이름](링크)`)을 사용하여 `docs: n주차 n번 문제 출제` 커밋으로 문제를 제출합니다.
 
