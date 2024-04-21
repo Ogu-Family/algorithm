@@ -34,6 +34,7 @@
 | 18 |                  [단어 수학](https://www.acmicpc.net/problem/1339)                  |    [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)     |                           [배열 돌리기 1](https://www.acmicpc.net/problem/16926)                            |
 | 19 |      [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)      |              [Java vs C++](https://www.acmicpc.net/problem/3613)               |                              [샘터](https://www.acmicpc.net/problem/18513)                               |
 | 20 | [로봇 청소기](https://www.acmicpc.net/problem/14503)|             [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)    |                              [회장뽑기](https://www.acmicpc.net/problem/2660)                              |
+| 21 | |                 |                            [도시 분할 계획](https://www.acmicpc.net/problem/1647)                            |
 
 ** 문제 출제자는 마크다운 문법(`[문제 이름](링크)`)을 사용하여 `docs: n주차 n번 문제 출제` 커밋으로 문제를 제출합니다.
 
