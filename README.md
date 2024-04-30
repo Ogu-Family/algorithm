@@ -35,7 +35,7 @@
 | 19 |      [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)      |              [Java vs C++](https://www.acmicpc.net/problem/3613)               |                              [샘터](https://www.acmicpc.net/problem/18513)                               |
 | 20 |                 [로봇 청소기](https://www.acmicpc.net/problem/14503)                 |   [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)   |                              [회장뽑기](https://www.acmicpc.net/problem/2660)                              |
 | 21 |    [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)     |                [소수의 연속합](https://www.acmicpc.net/problem/1644)                 |                            [도시 분할 계획](https://www.acmicpc.net/problem/1647)                            |
-| 22 |                                                                                 |             [숌 사이 수열](https://www.acmicpc.net/problem/1469)                |                         [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)                         |
+| 22 |                [최소 회의실 개수](https://www.acmicpc.net/problem/19598)               |             [숌 사이 수열](https://www.acmicpc.net/problem/1469)                |                         [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)                         |
 
 ** 문제 출제자는 마크다운 문법(`[문제 이름](링크)`)을 사용하여 `docs: n주차 n번 문제 출제` 커밋으로 문제를 제출합니다.
 
