@@ -37,7 +37,7 @@
 | 21 |    [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)     |                [소수의 연속합](https://www.acmicpc.net/problem/1644)                 |                            [도시 분할 계획](https://www.acmicpc.net/problem/1647)                            |
 | 22 |               [최소 회의실 개수](https://www.acmicpc.net/problem/19598)                |                [숌 사이 수열](https://www.acmicpc.net/problem/1469)                 |                         [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)                         |
 | 23 |                 [치킨 배달](https://www.acmicpc.net/problem/15686)                  |               [신촌 통폐합 계획](https://www.acmicpc.net/problem/31423)               |                             [박스 채우기](https://www.acmicpc.net/problem/1493)                             |
-| 24 |                                                                                 |                                                                                |                             [보이저 1호](https://www.acmicpc.net/problem/3987)                             |
+| 24 |  [누가 이길까](https://www.acmicpc.net/problem/28449)   |                                                                                |                             [보이저 1호](https://www.acmicpc.net/problem/3987)                             |
 
 ** 문제 출제자는 마크다운 문법(`[문제 이름](링크)`)을 사용하여 `docs: n주차 n번 문제 출제` 커밋으로 문제를 제출합니다.
 
