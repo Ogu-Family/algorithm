@@ -40,7 +40,7 @@
 | 24 |                 [누가 이길까](https://www.acmicpc.net/problem/28449)                 |                [후보 추천하기](https://www.acmicpc.net/problem/1713)                 |                             [보이저 1호](https://www.acmicpc.net/problem/3987)                             |
 | 25 |          [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529)           |                 [연구소 2](https://www.acmicpc.net/problem/17141)                 |                             [내진 설계](https://www.acmicpc.net/problem/31863)                             |
 | 26 |                   [트럭](https://www.acmicpc.net/problem/13335)                   |                  [IPv6](https://www.acmicpc.net/problem/3107)                  |                             [캠프 준비](https://www.acmicpc.net/problem/16938)                             |
-| 27 |                                                                                 |                [상어 초등학교](https://www.acmicpc.net/problem/21608)                |                             [상어 중학교](https://www.acmicpc.net/problem/21609)                             |
+| 27 |                            [쉬운 최단거리](https://www.acmicpc.net/problem/14940)                                                     |                [상어 초등학교](https://www.acmicpc.net/problem/21608)                |                             [상어 중학교](https://www.acmicpc.net/problem/21609)                             |
 
 ** 문제 출제자는 마크다운 문법(`[문제 이름](링크)`)을 사용하여 `docs: n주차 n번 문제 출제` 커밋으로 문제를 제출합니다.
 
