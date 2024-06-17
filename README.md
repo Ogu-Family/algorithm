@@ -29,6 +29,7 @@
     - 커밋 메시지: `solve: week**-p*`(예시: `solve: week01-p1`)
 2. (생성된 PR이 없는 경우)Main 브랜치로 Pull Request 생성
     - Title: `[WEEK*-P*] {문제 이름}`(예시: `[WEEK01-P1] A+B`)
+    - Issue: 해당 문제의 이슈 링크
     - Reviewers: 다른 인원 전체 추가
     - Assignees: 문제 풀이 완료한 인원 추가
     - Labels: 해당 문제 플랫폼 지정
