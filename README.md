@@ -28,8 +28,10 @@
     - 경로 및 파일명: `/src/week**/p*_{닉네임}.java`(예시: `/src/week01/p1_ogu.java`)
     - 커밋 메시지: `solve: week**-p*`(예시: `solve: week01-p1`)
 2. (생성된 PR이 없는 경우)Main 브랜치로 Pull Request 생성
-    - Title: `[WEEK**-P*] {플랫폼} {문제 번호} {문제 이름}`(예시: `[WEEK01-P1] 백준 2606 바이러스`)
-    - Assignees: 본인 추가
+    - Title: `[WEEK*-P*] {문제 이름}`(예시: `[WEEK01-P1] A+B`)
+    - Reviewers: 다른 인원 전체 추가
+    - Assignees: 문제 풀이 완료한 인원 추가
+    - Labels: 해당 문제 플랫폼 지정
 3. 각자 리뷰
     - 각 인원은(그 날 푼 인원에 한해) 해당 주차에 푼 문제에 대해 리뷰 진행
 4. 리뷰 완료 후 `Squash Merge` 진행
