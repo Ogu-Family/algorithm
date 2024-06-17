@@ -10,48 +10,12 @@
 
 <br>
 
-## 🗓️ 일정표
-
-| 주차 |                                      문제 1                                       |                                      문제 2                                      |                                                  문제 3                                                  |
-|:--:|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-| 1  |                  [바이러스](https://www.acmicpc.net/problem/2606)                   |                  [듣보잡](https://www.acmicpc.net/problem/1764)                   |                            [금공강 사수](https://www.acmicpc.net/problem/27375)                             |
-| 2  |                 [햄버거 분배](https://www.acmicpc.net/problem/19941)                 |                [강의실 배정](https://www.acmicpc.net/problem/11000)                 |                            [전쟁 - 전투](https://www.acmicpc.net/problem/1303)                             |
-| 3  |                 [색종이 만들기](https://www.acmicpc.net/problem/2630)                 |                   [파티](https://www.acmicpc.net/problem/1238)                   |                       [2,147,483,648 게임](https://www.acmicpc.net/problem/23796)                        |
-| 4  |                [구간 나누기 2](https://www.acmicpc.net/problem/13397)                |                [에너지 드링크](https://www.acmicpc.net/problem/20115)                |                            [소수&팰린드롬](https://www.acmicpc.net/problem/1747)                             |
-| 5  |                 [랜선 자르기](https://www.acmicpc.net/problem/1654)                  |                  [토마토](https://www.acmicpc.net/problem/7576)                   |                           [인하니카 공화국](https://www.acmicpc.net/problem/12784)                            |
-| 6  |                 [정수 삼각형](https://www.acmicpc.net/problem/1932)                  |                [HTML 파싱](https://www.acmicpc.net/problem/22859)                |                             [미로 만들기](https://www.acmicpc.net/problem/2665)                             |
-| 7  |                   [리모컨](https://www.acmicpc.net/problem/1107)                   |                 [회의실 배정](https://www.acmicpc.net/problem/1931)                 |                             [해시 해킹](https://www.acmicpc.net/problem/26008)                             |
-| 8  |               [Codepowers](https://www.acmicpc.net/problem/26007)               |                 [서강근육맨](https://www.acmicpc.net/problem/20300)                 |                            [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)                             |
-| 9  |                  [퇴사 2](https://www.acmicpc.net/problem/15486)                  |               [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)               | [초밥 식사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCcO16Vi8DFAWv) |
-| 10 |                [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                |                [상어 초등학교](https://www.acmicpc.net/problem/21608)                |                             [등수 구하기](https://www.acmicpc.net/problem/1205)                             |
-| 11 |                [이진 검색 트리](https://www.acmicpc.net/problem/5639)                 |                                       -                                        |                             [어항 정리](https://www.acmicpc.net/problem/23291)                             |
-| 12 |                [통나무 건너뛰기](https://www.acmicpc.net/problem/11497)                |                  [꿀따기](https://www.acmicpc.net/problem/21758)                  |                               [친구](https://www.acmicpc.net/problem/1058)                               |
-| 13 |              [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)               |                                       -                                        |                      [어떤 우유의 배달 목록(Easy)](https://www.acmicpc.net/problem/23835)                       |
-| 14 |                  [쿼드트리](https://www.acmicpc.net/problem/1992)                   |                 [줄 세우기](https://www.acmicpc.net/problem/2252)                  |                              [꽃길](https://www.acmicpc.net/problem/14620)                               |
-| 15 | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |                   [수열](https://www.acmicpc.net/problem/2559)                   |                      [문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)                      |
-| 16 |                  [연구소](https://www.acmicpc.net/problem/14502)                   | [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) |                            [조합 0의 개수](https://www.acmicpc.net/problem/2004)                            |
-| 17 |                 [문자열 게임](https://www.acmicpc.net/problem/27980)                 |                 [똥 게임](https://www.acmicpc.net/problem/23815)                  |              [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)               |
-| 18 |                  [단어 수학](https://www.acmicpc.net/problem/1339)                  |    [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)     |                           [배열 돌리기 1](https://www.acmicpc.net/problem/16926)                            |
-| 19 |      [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)      |              [Java vs C++](https://www.acmicpc.net/problem/3613)               |                              [샘터](https://www.acmicpc.net/problem/18513)                               |
-| 20 |                 [로봇 청소기](https://www.acmicpc.net/problem/14503)                 |   [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)   |                              [회장뽑기](https://www.acmicpc.net/problem/2660)                              |
-| 21 |    [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)     |                [소수의 연속합](https://www.acmicpc.net/problem/1644)                 |                            [도시 분할 계획](https://www.acmicpc.net/problem/1647)                            |
-| 22 |               [최소 회의실 개수](https://www.acmicpc.net/problem/19598)                |                [숌 사이 수열](https://www.acmicpc.net/problem/1469)                 |                         [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)                         |
-| 23 |                 [치킨 배달](https://www.acmicpc.net/problem/15686)                  |               [신촌 통폐합 계획](https://www.acmicpc.net/problem/31423)               |                             [박스 채우기](https://www.acmicpc.net/problem/1493)                             |
-| 24 |                 [누가 이길까](https://www.acmicpc.net/problem/28449)                 |                [후보 추천하기](https://www.acmicpc.net/problem/1713)                 |                             [보이저 1호](https://www.acmicpc.net/problem/3987)                             |
-| 25 |          [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529)           |                 [연구소 2](https://www.acmicpc.net/problem/17141)                 |                             [내진 설계](https://www.acmicpc.net/problem/31863)                             |
-| 26 |                   [트럭](https://www.acmicpc.net/problem/13335)                   |                  [IPv6](https://www.acmicpc.net/problem/3107)                  |                             [캠프 준비](https://www.acmicpc.net/problem/16938)                             |
-| 27 |                [쉬운 최단거리](https://www.acmicpc.net/problem/14940)                 |                [상어 초등학교](https://www.acmicpc.net/problem/21608)                |                            [상어 중학교](https://www.acmicpc.net/problem/21609)                             |
-| 28 |  [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)                                            |                       [톱니바퀴](https://www.acmicpc.net/problem/14891)      |                             [핑거 스냅](https://www.acmicpc.net/problem/17394)                             |
-
-** 문제 출제자는 마크다운 문법(`[문제 이름](링크)`)을 사용하여 `docs: n주차 n번 문제 출제` 커밋으로 문제를 제출합니다.
-
-<br>
-
 ## 🔁 진행 순서
 
 일주일 단위로 아래의 순서로 진행합니다.
 
-1. `문제 출제`: 문제 출제자가 진행 해당 주차 시작 전 일요일 자정까지 문제 선정
+1. `문제 출제`: 문제 출제자가 진행 해당 주차 시작 전 일요일 자정까지 문제를
+   선정하여 [이슈](https://github.com/Ogu-Family/algorithm/issues) 생성
 2. `문제 풀이 제출`: 해당 주 일요일 자정까지 지정된 브랜치에 문제 제출
 3. `리뷰`: 문제 풀이 제출 한 다음 주 일요일 자정까지 리뷰 진행
 
@@ -60,7 +24,7 @@
 ## 📜 제출 방법
 
 1. 지정된 브랜치에 풀이한 코드 커밋
-    - 브랜치: `week**/p*`(예시: `week01/p1`)
+    - 브랜치명: 주차와 번호가 나오게 자유롭게 생성
     - 경로 및 파일명: `/src/week**/p*_{닉네임}.java`(예시: `/src/week01/p1_ogu.java`)
     - 커밋 메시지: `solve: week**-p*`(예시: `solve: week01-p1`)
 2. (생성된 PR이 없는 경우)Main 브랜치로 Pull Request 생성
